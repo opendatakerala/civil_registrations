@@ -5,6 +5,10 @@ Data released is here is from Sevana Civil registrations portal . https://cr.lsg
 
 Birth & Death Registrations in Kerala from year 2012 to 2020. For the year 2021 statistics as on June 3rd 2021 
 
+Hover over the map for stats for each local body. 
+
+
+
 788 GPs 87 Muncipalities 5 Corporation  and 1 Cantonment in Sevana 
 
 153 GPs in ILGMS - https://erp.lsgkerala.gov.in/
