@@ -1,5 +1,5 @@
 # Civil Registrations
-Open Data Kerala is releasing data of  civil registrations statistics from Kerala. 
+Open Data Kerala is releasing data of  civil registrations statistics from Kerala as on June 3rd 2021. 
 
 788 GPs 87 Muncipalities 5 Corporation  and 1 Cantonment in Sevana 
 153 GPs in ILGMS
